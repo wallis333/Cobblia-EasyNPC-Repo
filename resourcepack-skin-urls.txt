@@ -1,0 +1,397 @@
+Cobblia trainer skins
+
+Ace trainer female
+File: skins/resourcepack/cobblemon/trainers/ace_trainer_f.png
+Female - Young - Ace trainer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/ace_trainer_f.png
+
+Ace trainer male
+File: skins/resourcepack/cobblemon/trainers/ace_trainer_m.png
+Male - Young - Ace trainer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/ace_trainer_m.png
+
+Aroma lady
+File: skins/resourcepack/cobblemon/trainers/aroma_lady.png
+Female - Adult - Aroma trainer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/aroma_lady.png
+
+Backpacker
+File: skins/resourcepack/cobblemon/trainers/backpacker.png
+Male - Adult - Backpacker
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/backpacker.png
+
+Battle girl
+File: skins/resourcepack/cobblemon/trainers/battle_girl.png
+Female - Young - Martial artist
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/battle_girl.png
+
+Beauty
+File: skins/resourcepack/cobblemon/trainers/beauty.png
+Female - Adult - Beauty
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/beauty.png
+
+Bird keeper female
+File: skins/resourcepack/cobblemon/trainers/bird_keeper_f.png
+Female - Adult - Bird keeper
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/bird_keeper_f.png
+
+Bird keeper male
+File: skins/resourcepack/cobblemon/trainers/bird_keeper_m.png
+Male - Adult - Bird keeper
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/bird_keeper_m.png
+
+Black belt
+File: skins/resourcepack/cobblemon/trainers/black_belt.png
+Male - Adult - Martial artist
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/black_belt.png
+
+Bug catcher
+File: skins/resourcepack/cobblemon/trainers/bug_catcher.png
+Male - Young - Bug catcher
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/bug_catcher.png
+
+Honey gold bug catcher
+File: skins/resourcepack/cobblemon/trainers/bug_catcher_yellow.png
+Male - Young - Bug catcher
+Author: theduckonquack5
+Original artist: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/bug_catcher_yellow.png
+
+Cafe master
+File: skins/resourcepack/cobblemon/trainers/cafe_master.png
+Male - Adult - Cafe master
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/cafe_master.png
+
+Camper
+File: skins/resourcepack/cobblemon/trainers/camper.png
+Male - Young - Camper
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/camper.png
+
+Collector
+File: skins/resourcepack/cobblemon/trainers/collector.png
+Male - Adult - Collector
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/collector.png
+
+Dragon tamer female
+File: skins/resourcepack/cobblemon/trainers/dragon_tamer_f.png
+Female - Adult - Dragon tamer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/dragon_tamer_f.png
+
+Dragon tamer male
+File: skins/resourcepack/cobblemon/trainers/dragon_tamer_m.png
+Male - Adult - Dragon tamer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/dragon_tamer_m.png
+
+Firebreather
+File: skins/resourcepack/cobblemon/trainers/firebreather.png
+Male - Adult - Firebreather
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/firebreather.png
+
+Fisherman
+File: skins/resourcepack/cobblemon/trainers/fisherman.png
+Male - Adult - Fisherman
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/fisherman.png
+
+Gentleman
+File: skins/resourcepack/cobblemon/trainers/gentleman.png
+Male - Old - Gentleman
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/gentleman.png
+
+Guitarist
+File: skins/resourcepack/cobblemon/trainers/guitarist.png
+Male - Adult - Guitarist
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/guitarist.png
+
+Guitarist female
+File: skins/resourcepack/cobblemon/trainers/guitarist_f.png
+Male - Adult - Guitarist
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/guitarist_f.png
+
+Guitarist male
+File: skins/resourcepack/cobblemon/trainers/guitarist_m.png
+Male - Adult - Guitarist
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/guitarist_m.png
+
+Gym leader Haranae
+File: skins/resourcepack/cobblemon/trainers/gym_leader_haranae.png
+Male - Adult - Ground gym leader
+Author: theduckonquack5
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/gym_leader_haranae.png
+
+Gym leader Netta
+File: skins/resourcepack/cobblemon/trainers/gym_leader_netta.png
+Female - Adult - Bug gym leader
+Author: theduckonquack5
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/gym_leader_netta.png
+
+Gym leader Virelia
+File: skins/resourcepack/cobblemon/trainers/gym_leader_virelia.png
+Female - Adult - Poison gym leader
+Author: theduckonquack5
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/gym_leader_virelia.png
+
+Hex maniac
+File: skins/resourcepack/cobblemon/trainers/hex_maniac.png
+Female - Adult - Ghost trainer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/hex_maniac.png
+
+Hiker
+File: skins/resourcepack/cobblemon/trainers/hiker.png
+Male - Adult - Hiker
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/hiker.png
+
+Lady
+File: skins/resourcepack/cobblemon/trainers/lady.png
+Female - Adult - Lady
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/lady.png
+
+Lass
+File: skins/resourcepack/cobblemon/trainers/lass.png
+Female - Young - Trainer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/lass.png
+
+Ninja boy
+File: skins/resourcepack/cobblemon/trainers/ninja_boy.png
+Male - Young - Ninja
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/ninja_boy.png
+
+Picnicker
+File: skins/resourcepack/cobblemon/trainers/picnicker.png
+Female - Young - Picnicker
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/picnicker.png
+
+Professor Sakura
+File: skins/resourcepack/cobblemon/trainers/professor_sakura.png
+Female - Adult - Pokémon professor
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/professor_sakura.png
+
+Psychic female
+File: skins/resourcepack/cobblemon/trainers/psychic_f.png
+Female - Adult - Psychic
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/psychic_f.png
+
+Psychic male
+File: skins/resourcepack/cobblemon/trainers/psychic_m.png
+Male - Adult - Psychic
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/psychic_m.png
+
+Ranger female
+File: skins/resourcepack/cobblemon/trainers/ranger_f.png
+Female - Adult - Ranger
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/ranger_f.png
+
+Ranger male
+File: skins/resourcepack/cobblemon/trainers/ranger_m.png
+Male - Adult - Ranger
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/ranger_m.png
+
+Rich boy
+File: skins/resourcepack/cobblemon/trainers/rich_boy.png
+Male - Young - Trainer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/rich_boy.png
+
+Rival Slate
+File: skins/resourcepack/cobblemon/trainers/rival_slate.png
+Male - Young - Rival trainer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/rival_slate.png
+
+Ruin maniac
+File: skins/resourcepack/cobblemon/trainers/ruin_maniac.png
+Male - Old - Ruin explorer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/ruin_maniac.png
+
+Sailor
+File: skins/resourcepack/cobblemon/trainers/sailor.png
+Male - Adult - Sailor
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/sailor.png
+
+School kid female
+File: skins/resourcepack/cobblemon/trainers/school_kid_f.png
+Female - Young - School kid
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/school_kid_f.png
+
+School kid male
+File: skins/resourcepack/cobblemon/trainers/school_kid_m.png
+Male - Young - School kid
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/school_kid_m.png
+
+Scientist female
+File: skins/resourcepack/cobblemon/trainers/scientist_f.png
+Female - Adult - Scientist
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/scientist_f.png
+
+Scientist male
+File: skins/resourcepack/cobblemon/trainers/scientist_m.png
+Male - Adult - Scientist
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/scientist_m.png
+
+Sootgear gym trainer
+File: skins/resourcepack/cobblemon/trainers/sootgear_gym_trainer.png
+Male - Adult - Steel gym trainer
+Author: theduckonquack5
+Original artist: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/sootgear_gym_trainer.png
+
+Student
+File: skins/resourcepack/cobblemon/trainers/student.png
+Male - Young - Student
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/student.png
+
+Sunsworn gym trainer
+File: skins/resourcepack/cobblemon/trainers/sunsworn_gym_trainer.png
+Male - Old - Ground gym trainer
+Author: theduckonquack5
+Original artist: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/sunsworn_gym_trainer.png
+
+Team End grunt female
+File: skins/resourcepack/cobblemon/trainers/team_end_grunt_female.png
+Female - Adult - Team End grunt
+Author: theduckonquack5
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/team_end_grunt_female.png
+
+Team End grunt male
+File: skins/resourcepack/cobblemon/trainers/team_end_grunt_male.png
+Male - Adult - Team End grunt
+Author: theduckonquack5
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/team_end_grunt_male.png
+
+Team Nether grunt female
+File: skins/resourcepack/cobblemon/trainers/team_nether_grunt_female.png
+Female - Adult - Team Nether grunt
+Author: theduckonquack5
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/team_nether_grunt_female.png
+
+Team Nether grunt male
+File: skins/resourcepack/cobblemon/trainers/team_nether_grunt_male.png
+Male - Adult - Team Nether grunt
+Author: theduckonquack5
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/team_nether_grunt_male.png
+
+Tropilis gym trainer
+File: skins/resourcepack/cobblemon/trainers/tropilis_gym_trainer.png
+Male - Young - Poison gym trainer
+Author: theduckonquack5
+Original artist: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/tropilis_gym_trainer.png
+
+Tuber female
+File: skins/resourcepack/cobblemon/trainers/tuber_f.png
+Female - Young - Tuber
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/tuber_f.png
+
+Tuber male
+File: skins/resourcepack/cobblemon/trainers/tuber_m.png
+Male - Young - Tuber
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/tuber_m.png
+
+Worker
+File: skins/resourcepack/cobblemon/trainers/worker.png
+Male - Adult - Worker
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/worker.png
+
+Youngster
+File: skins/resourcepack/cobblemon/trainers/youngster.png
+Male - Young - Trainer
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/youngster.png
