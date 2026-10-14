@@ -1,11 +1,3 @@
-## Use a skin in EasyNPC
-
-1. Choose **Humanoid Slim / Alex** for entries marked Alex.
-2. Open the NPC's skin settings, choose **URL**, and paste its **Direct PNG** link.
-3. Leave the outer skin layer enabled for the hair and clothing details.
-
-The PNG column shows the skin texture. Click a Hickskun or regional NPC filename to see its front and back rendering. Other filename links open the texture itself.
-
 The renderings are AI-generated previews made from the actual skin textures.
 
 For copying several links, use the [URL list](skin-urls.txt) or [spreadsheet guide](skin-urls.csv). Both include every entry on this page. If EasyNPC keeps showing an older skin, close the client and follow the [official cache instructions](https://github.com/MarkusBordihn/BOs-Easy-NPC/wiki/Skins#clearing-skin-cache-).
