@@ -1239,10 +1239,10 @@
       "source_models": [
         "cobblemon:alex.geo"
       ],
-      "notes": "Swim shorts, goggles and a white swim cap.",
+      "notes": "Navy swim shorts, white waistband, goggles and a white cap with a navy stripe.",
       "source_path": "assets/cobblemon/textures/npcs/trainers/swimmer.png",
-      "source_sha256": "6f38efa799f2f86bd992844c1529a78339b66269d618b74d823a478e248381bd",
-      "sha256": "6f38efa799f2f86bd992844c1529a78339b66269d618b74d823a478e248381bd",
+      "source_sha256": "50505ea2fb42cb7a44b53f4b2fe08dca06e7b044bec4cb62a526de19816d28e4",
+      "sha256": "50505ea2fb42cb7a44b53f4b2fe08dca06e7b044bec4cb62a526de19816d28e4",
       "url": "https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/swimmer.png",
       "original_artist": "Hickskun",
       "original_skin": "swimmer.png",
