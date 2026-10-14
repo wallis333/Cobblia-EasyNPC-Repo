@@ -336,7 +336,6 @@ Swimmer
 File: skins/resourcepack/cobblemon/trainers/swimmer.png
 Male - Adult - Swimmer
 Author: theduckonquack5
-Original artist: Hickskun
 Model: Alex (Humanoid Slim)
 https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/swimmer.png
 
