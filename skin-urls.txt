@@ -332,6 +332,14 @@ Original artist: Hickskun
 Model: Alex (Humanoid Slim)
 https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/sunsworn_gym_trainer.png
 
+Swimmer
+File: skins/resourcepack/cobblemon/trainers/swimmer.png
+Male - Adult - Swimmer
+Author: theduckonquack5
+Original artist: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/swimmer.png
+
 Team End grunt female
 File: skins/resourcepack/cobblemon/trainers/team_end_grunt_female.png
 Female - Adult - Team End grunt

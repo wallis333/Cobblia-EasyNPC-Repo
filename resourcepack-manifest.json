@@ -1,11 +1,11 @@
 {
   "title": "Selected Cobblia resource pack NPC textures",
-  "png_count": 56,
-  "npc_texture_count": 56,
+  "png_count": 57,
+  "npc_texture_count": 57,
   "object_texture_count": 0,
   "authors": {
     "Hickskun": 45,
-    "theduckonquack5": 11
+    "theduckonquack5": 12
   },
   "source_repository": "https://github.com/wallis333/Cobblia-Resource-Pack",
   "credit_note": "Skins by theduckonquack5 and Hickskun. Recolored variants also credit the original artist.",
@@ -1225,6 +1225,34 @@
       "age_label": "Old",
       "profession": "Ground gym trainer",
       "description": "Male - Old - Ground gym trainer"
+    },
+    {
+      "filename": "swimmer.png",
+      "path": "skins/resourcepack/cobblemon/trainers/swimmer.png",
+      "name": "Swimmer",
+      "group": "custom_cobblia",
+      "author": "theduckonquack5",
+      "width": 64,
+      "height": 64,
+      "model": "Alex (Humanoid Slim)",
+      "model_status": "standard_model",
+      "source_models": [
+        "cobblemon:alex.geo"
+      ],
+      "notes": "Swim shorts, goggles and a white swim cap.",
+      "source_path": "assets/cobblemon/textures/npcs/trainers/swimmer.png",
+      "source_sha256": "6f38efa799f2f86bd992844c1529a78339b66269d618b74d823a478e248381bd",
+      "sha256": "6f38efa799f2f86bd992844c1529a78339b66269d618b74d823a478e248381bd",
+      "url": "https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/swimmer.png",
+      "original_artist": "Hickskun",
+      "original_skin": "swimmer.png",
+      "guide_category": "Trainers",
+      "gender": "Male",
+      "age_label": "Adult",
+      "profession": "Swimmer",
+      "description": "Male - Adult - Swimmer",
+      "preview": "previews/trainers/swimmer.png",
+      "preview_type": "Front and back rendering on the Alex model"
     },
     {
       "filename": "team_end_grunt_female.png",
