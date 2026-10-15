@@ -4,7 +4,7 @@ For copying several links, use the [URL list](skin-urls.txt) or [spreadsheet gui
 
 ## Trainers
 
-All skins by Hickskun are listed as trainers, alongside the Cobblia gym leaders, gym trainers, and team members.
+Gym leaders, gym trainers, team members, and other battle trainers.
 
 | Skin and filename | Description | Author | Model | PNG | Direct link |
 | --- | --- | --- | --- | --- | --- |
@@ -72,6 +72,7 @@ The 32 regional skins by theduckonquack5 include younger, adult, and elderly res
 
 | Skin and filename | Description | Author | Model | PNG | Direct link |
 | --- | --- | --- | --- | --- | --- |
+| **Pokémart employee**<br>[`pokemart_employee.png`](previews/pokemart_employee.png) | Male - Adult - Pokémart employee | Hickskun | Alex (Humanoid Slim) | <img src="skins/pokemart_employee.png" alt="Pokémart employee texture" width="64" height="64"> | [Direct PNG](https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/pokemart_employee.png) |
 | **Adult man (Hoenn inspired, plain clothes)**<br>[`male_hoenn_npc_adult.png`](previews/male_hoenn_npc_adult.png) | Male - Adult - Field naturalist - Plain | theduckonquack5 | Alex (Humanoid Slim) | <img src="skins/male_hoenn_npc_adult.png" alt="Adult man (Hoenn inspired, plain clothes) texture" width="64" height="64"> | [Direct PNG](https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/male_hoenn_npc_adult.png) |
 | **Adult man (Johto inspired, plain clothes)**<br>[`male_johto_npc_adult.png`](previews/male_johto_npc_adult.png) | Male - Adult - Traveling merchant - Plain | theduckonquack5 | Alex (Humanoid Slim) | <img src="skins/male_johto_npc_adult.png" alt="Adult man (Johto inspired, plain clothes) texture" width="64" height="64"> | [Direct PNG](https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/male_johto_npc_adult.png) |
 | **Adult man (Kanto inspired, plain clothes)**<br>[`male_kanto_npc_adult.png`](previews/male_kanto_npc_adult.png) | Male - Adult - Office worker - Plain | theduckonquack5 | Alex (Humanoid Slim) | <img src="skins/male_kanto_npc_adult.png" alt="Adult man (Kanto inspired, plain clothes) texture" width="64" height="64"> | [Direct PNG](https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/male_kanto_npc_adult.png) |

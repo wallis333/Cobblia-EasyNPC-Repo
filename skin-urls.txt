@@ -403,6 +403,13 @@ Author: Hickskun
 Model: Alex (Humanoid Slim)
 https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/youngster.png
 
+Pokémart employee
+File: skins/pokemart_employee.png
+Male - Adult - Pokémart employee
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/pokemart_employee.png
+
 Adult man (Hoenn inspired, plain clothes)
 File: skins/male_hoenn_npc_adult.png
 Male - Adult - Field naturalist - Plain

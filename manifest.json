@@ -1,7 +1,32 @@
 {
   "title": "Cobblia EasyNPC Repo",
-  "skin_count": 32,
+  "skin_count": 33,
   "skins": [
+    {
+      "filename": "pokemart_employee.png",
+      "path": "skins/pokemart_employee.png",
+      "name": "Pokémart employee",
+      "display_name": "Pokémart employee",
+      "sex": "male",
+      "gender": "Male",
+      "age_group": "adult",
+      "age_label": "Adult",
+      "character": "Adult man",
+      "profession": "Pokémart employee",
+      "outfit": "White shirt, blue apron with orange trim, navy trousers and dark shoes",
+      "clothing": "White shirt, blue apron with orange trim, navy trousers and dark shoes",
+      "appearance": "Short brown hair",
+      "description": "Male - Adult - Pokémart employee",
+      "author": "Hickskun",
+      "guide_category": "Regular NPCs",
+      "model": "Alex (Humanoid Slim)",
+      "width": 64,
+      "height": 64,
+      "sha256": "e3a75a06a3c8cf3359ce34bc2c02f301755d4ec75b48ea82a274b162dbac6bed",
+      "url": "https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/pokemart_employee.png",
+      "preview": "previews/pokemart_employee.png",
+      "source": "User-provided pokemart_employee.png"
+    },
     {
       "filename": "male_hoenn_npc.png",
       "region": "hoenn",
