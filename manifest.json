@@ -1,7 +1,32 @@
 {
   "title": "Cobblia EasyNPC Repo",
-  "skin_count": 33,
+  "skin_count": 34,
   "skins": [
+    {
+      "filename": "nurse_joy.png",
+      "path": "skins/nurse_joy.png",
+      "name": "Nurse Joy",
+      "display_name": "Nurse Joy",
+      "sex": "female",
+      "gender": "Female",
+      "age_group": "adult",
+      "age_label": "Adult",
+      "character": "Adult woman",
+      "profession": "Nurse",
+      "outfit": "Pink uniform, white apron, white nurse cap and white shoes",
+      "clothing": "Pink uniform, white apron, white nurse cap and white shoes",
+      "appearance": "Pink hair and blue eyes",
+      "description": "Female - Adult - Nurse",
+      "author": "Hickskun",
+      "guide_category": "Regular NPCs",
+      "model": "Alex (Humanoid Slim)",
+      "width": 64,
+      "height": 64,
+      "sha256": "831235df67056efd0f0f2cf60a707f9c2d50f852455a11c9db51b5b61c10866f",
+      "url": "https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/nurse_joy.png",
+      "preview": "previews/nurse_joy.png",
+      "source": "User-provided nurse_joy.png"
+    },
     {
       "filename": "pokemart_employee.png",
       "path": "skins/pokemart_employee.png",

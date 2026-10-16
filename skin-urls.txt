@@ -403,6 +403,13 @@ Author: Hickskun
 Model: Alex (Humanoid Slim)
 https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/resourcepack/cobblemon/trainers/youngster.png
 
+Nurse Joy
+File: skins/nurse_joy.png
+Female - Adult - Nurse
+Author: Hickskun
+Model: Alex (Humanoid Slim)
+https://raw.githubusercontent.com/wallis333/Cobblia-EasyNPC-Repo/main/skins/nurse_joy.png
+
 Pokémart employee
 File: skins/pokemart_employee.png
 Male - Adult - Pokémart employee
